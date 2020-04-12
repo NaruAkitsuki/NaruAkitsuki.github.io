@@ -1,37 +1,43 @@
 ## Welcome to NaruAkitsuki portfolio
 
-You can use the [editor on GitHub](https://github.com/NaruAkitsuki/NaruAkitsuki.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### profile
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+私は文系進路から外れた人間です。  
 
-### Markdown
+2009年にスマートフォンの可能性に魅せられて以降、プログラマーとしては2010年から独習を行い、業務開発には2011年以降携わってきました。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### skills
 
-```markdown
-Syntax highlighted code block
+- 業務経験による開発知識 Unity(C#)/Android(Java)/Git/Gitlab
+- 折衝経験による妥当な課題交渉
+- レビュー経験によるコード品質維持
+- プロジェクト概算見積、スケジューリング経験による妥当な工数計算、対外交渉
+- 工数削減のためのアセット、ツール類の積極的採用提案、組み込み
+- ゲームプランナーからの企画内容聞き取り、仕様化、チーム向け文書化とその維持
 
-# Header 1
-## Header 2
-### Header 3
+### languages
 
-- Bulleted
-- List
+- Japanese - Native
+- English - Grammar is intermediate
 
-1. Numbered
-2. List
+### background / education
 
-**Bold** and _Italic_ and `Code` text
+本ポートフォリオとは別に用意しています。 ご希望の採用担当者様宛には、個別に開示致します。
 
-[Link](url) and ![Image](src)
-```
+### future prospects
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- 薄い1枚の板が無限にも思える可能性を提供してくれた感動は今でも忘れておらず、スマートフォンアプリ開発の分野で活躍できる場を求めています
+- 複数のポジションとロールを経験したことで、純粋な技術の深堀りよりも組織運営や開発体制維持に努める方がハイパフォーマンスを出せるということが、自他共の評価によって判明したのがここ数年です。採用後、遠く無い未来でマネージングを任せていただける現場を求めています
+- 可能な限り、プロジェクト最高責任者が自身のプロジェクトを社会的意義があると信じ、またその詳細についてをメンバーが望めばいつでも開示できるプロジェクトに関わっていくこと
 
-### Jekyll Themes
+### the business environment I want
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NaruAkitsuki/NaruAkitsuki.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 適切なスペックのある開発機 - Windows/Macどちらも使用可能です
+- Slack - 社内文化がチャット前提であることを好みます
+- バージョン管理 - GitとGitlabあるいはGithubが対応可能です
+- ディスプレイ - 集中力を高めるため多くは不要です。1枚の大きめな外部ディスプレイで十分です
+- 椅子 - ツラい時に後ろにうなだれることができるもの。肘掛が回り、デスクとの段差と距離を縮められるタイプのもの
+- 完全に自由な服装 - 仕事以外に煩わせられないように、Tシャツと短パン、スウェットでもOKであること
+- 集中とリフレッシュがいつでも可能な風土
+- 動いた人から報われる評価制度
+- フレックス、またはリモートワーク制度
